@@ -11,7 +11,7 @@ This repository documents end-to-end spatial analysis and remote sensing workflo
 
 ## 🗺️ Project 1: School Proximity & Transit Accessibility Analysis (Lagos State)
 
-![Lagos School Accessibility Analysis](images/Lagos_Schools_Proximity_Analysis.jpg)
+![Lagos School Accessibility Analysis](Lagos_Schools_Proximity_Anlysis.png)
 
 ### Objective
 Assess geographic accessibility of educational facilities relative to major transportation corridors in Lagos State to identify urban service clusters and peripheral coverage gaps.
@@ -26,7 +26,7 @@ Assess geographic accessibility of educational facilities relative to major tran
 
 ## 🛰️ Project 2: Satellite Earth Observation & Vegetation Dynamics (AOI)
 
-![Vegetation Index Analysis](images/AOI_Veg_Idx.jpg)
+![Vegetation Index Analysis](AOI_Veg_Idx.png)
 
 ### Objective
 Evaluate surface canopy vigor, vegetation health, and land cover patterns across an Area of Interest (AOI) using multi-spectral satellite imagery.
@@ -43,7 +43,7 @@ Evaluate surface canopy vigor, vegetation health, and land cover patterns across
 
 ## 📊 Project 3: Regional Demographic & Gender Distribution Atlas (Morocco)
 
-![Morocco Regional Population Atlas](images/Morocco_Population.jpg)
+![Morocco Regional Population Atlas](Morocco_Population.png)
 
 ### Objective
 Visualize regional population patterns, gender distributions, and geographic imbalances across the 12 administrative regions of Morocco.
